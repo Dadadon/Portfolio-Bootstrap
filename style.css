@@ -81,3 +81,40 @@
     padding: 0;
   }
   
+
+  /*About-my-self-section*/
+  .h1{
+    color: blue;
+}
+
+.badge {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.skill_header {
+    display: flex;
+    gap: 25rem;
+}
+
+.sec_header {
+    width: 225px;
+}
+
+.icon {
+    margin-right: 1rem;
+}
+
+.skill_section {
+    list-style: none;
+}
+
+.row {
+    margin: 5rem;
+    padding-left: 4rem;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
